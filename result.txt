@@ -1,0 +1,1019 @@
+
+
+IP: 3.22.165.28
+City: Columbus
+Country: United States
+Port: 443
+Domains: [amazonaws.com c21.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 114.215.88.32
+City: Qingdao
+Country: China
+Port: 8085
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 173.241.154.39
+City: Midvale
+Country: United States
+Port: 443
+Domains: [beyond.com bedbathandbeyond.ca overstock.com bedbathandbeyond.com overstock.ca]
+	No vulnerabilities found.
+
+
+IP: 13.215.2.124
+City: Singapore
+Country: Singapore
+Port: 80
+Domains: [amazonaws.com]
+	No vulnerabilities found.
+
+
+IP: 103.93.94.166
+City: Ghāziābād
+Country: India
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 196.29.243.45
+City: Pretoria
+Country: South Africa
+Port: 443
+Domains: [resbank.co.za]
+	No vulnerabilities found.
+
+
+IP: 190.113.126.71
+City: San José
+Country: Costa Rica
+Port: 9443
+Domains: [nstelecablecr.com]
+	No vulnerabilities found.
+
+
+IP: 120.133.77.44
+City: Beijing
+Country: China
+Port: 5909
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 185.66.180.92
+City: London
+Country: United Kingdom
+Port: 443
+Domains: [numbergroup.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 178.211.215.33
+City: Oldham
+Country: United Kingdom
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 141.94.175.92
+City: Calais
+Country: France
+Port: 443
+Domains: [creo-mps.com]
+	No vulnerabilities found.
+
+
+IP: 47.92.116.217
+City: Zhangjiakou
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 202.197.98.77
+City: Shanghai
+Country: China
+Port: 9999
+Domains: []
+Vulnerabilities:
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 64.215.200.36
+City: La Punta
+Country: Argentina
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 34.251.204.83
+City: Dublin
+Country: Ireland
+Port: 443
+Domains: [amazonaws.com travomint.co]
+	No vulnerabilities found.
+
+
+IP: 82.196.226.146
+City: Welwyn Garden City
+Country: United Kingdom
+Port: 8090
+Domains: [securahosting.com]
+	No vulnerabilities found.
+
+
+IP: 195.222.98.49
+City: Zemun
+Country: Serbia
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 177.223.178.75
+City: Valença
+Country: Brazil
+Port: 6667
+Domains: [mma.com.br]
+	No vulnerabilities found.
+
+
+IP: 47.113.80.151
+City: Shenzhen
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 196.206.163.82
+City: Casablanca
+Country: Morocco
+Port: 636
+Domains: [iam.net.ma]
+	No vulnerabilities found.
+
+
+IP: 200.19.146.241
+City: Uberlândia
+Country: Brazil
+Port: 80
+Domains: [ufu.br]
+Vulnerabilities:
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 109.166.184.166
+City: Bucharest
+Country: Romania
+Port: 443
+Domains: [orange.ro]
+	No vulnerabilities found.
+
+
+IP: 200.222.94.36
+City: Rio de Janeiro
+Country: Brazil
+Port: 443
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 200.36.165.51
+City: Mexico City
+Country: Mexico
+Port: 443
+Domains: [hermobile.com hermobile.mx ubicash.com.mx teknei.com optele.net innoventia.io]
+Vulnerabilities:
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 81.46.213.101
+City: Madrid
+Country: Spain
+Port: 443
+Domains: [gencat.cat cloudexpress.es]
+	No vulnerabilities found.
+
+
+IP: 200.186.4.228
+City: São Paulo
+Country: Brazil
+Port: 443
+Domains: [distribuidoracuritiba.com.br impsat.net.br]
+	No vulnerabilities found.
+
+
+IP: 200.66.76.174
+City: Mexico City
+Country: Mexico
+Port: 443
+Domains: [ateb-cfdi.com.mx mcm-telecom.com.mx]
+	No vulnerabilities found.
+
+
+IP: 3.36.6.129
+City: Incheon
+Country: Korea, Republic of
+Port: 443
+Domains: [amazonaws.com]
+	No vulnerabilities found.
+
+
+IP: 13.228.223.5
+City: Singapore
+Country: Singapore
+Port: 443
+Domains: [amazonaws.com quatanggalaxy.com]
+	No vulnerabilities found.
+
+
+IP: 212.56.41.44
+City: St. Louis
+Country: United States
+Port: 443
+Domains: [pqr-bs.com contaboserver.net]
+	No vulnerabilities found.
+
+
+IP: 211.62.111.238
+City: Hwaseong-si
+Country: Korea, Republic of
+Port: 443
+Domains: [boinen.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2023-5678
+	CVSS Score: 5.3
+	Verified: false
+	Vulnerability ID: CVE-2022-2068
+	CVSS Score: 9.8
+	Verified: false
+	Vulnerability ID: CVE-2009-3765
+	CVSS Score: 6.8
+	Verified: false
+	Vulnerability ID: CVE-2024-0727
+	CVSS Score: 5.5
+	Verified: false
+	Vulnerability ID: CVE-2023-0466
+	CVSS Score: 5.3
+	Verified: false
+	Vulnerability ID: CVE-2022-4450
+	CVSS Score: 7.5
+	Verified: false
+	Vulnerability ID: CVE-2009-3767
+	CVSS Score: 4.3
+	Verified: false
+	Vulnerability ID: CVE-2022-4304
+	CVSS Score: 5.9
+	Verified: false
+	Vulnerability ID: CVE-2023-0464
+	CVSS Score: 7.5
+	Verified: false
+	Vulnerability ID: CVE-2023-0465
+	CVSS Score: 5.3
+	Verified: false
+
+
+IP: 120.133.77.44
+City: Beijing
+Country: China
+Port: 221
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 41.250.128.74
+City: Casablanca
+Country: Morocco
+Port: 23
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 39.107.33.102
+City: Beijing
+Country: China
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 132.232.76.174
+City: Chengdu
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 194.170.95.88
+City: Sharjah
+Country: United Arab Emirates
+Port: 443
+Domains: [sharjah.ac.ae]
+	No vulnerabilities found.
+
+
+IP: 89.6.103.33
+City: Madrid
+Country: Spain
+Port: 443
+Domains: [comunitel.net]
+	No vulnerabilities found.
+
+
+IP: 41.141.213.115
+City: Casablanca
+Country: Morocco
+Port: 503
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 83.169.7.118
+City: Strasbourg
+Country: France
+Port: 9080
+Domains: [hosteurope.de]
+	No vulnerabilities found.
+
+
+IP: 210.140.164.42
+City: Yokohama
+Country: Japan
+Port: 80
+Domains: [idcfcloud.com]
+	No vulnerabilities found.
+
+
+IP: 185.86.244.98
+City: Istanbul
+Country: Turkey
+Port: 8443
+Domains: [sidracloud.com]
+	No vulnerabilities found.
+
+
+IP: 123.164.144.10
+City: Shanghai
+Country: China
+Port: 8009
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 210.3.102.9
+City: Hong Kong
+Country: Hong Kong
+Port: 80
+Domains: [uniconn.com]
+	No vulnerabilities found.
+
+
+IP: 41.90.121.217
+City: Nairobi
+Country: Kenya
+Port: 9090
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 189.112.5.114
+City: Franca
+Country: Brazil
+Port: 9090
+Domains: [ctbctelecom.com.br]
+	No vulnerabilities found.
+
+
+IP: 18.228.210.227
+City: São Paulo
+Country: Brazil
+Port: 80
+Domains: [amazonaws.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-7656
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2012-6708
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 94.103.149.156
+City: Tilburg
+Country: Netherlands
+Port: 443
+Domains: [connexys.nl]
+	No vulnerabilities found.
+
+
+IP: 61.155.4.187
+City: Nanjing
+Country: China
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 27.43.225.117
+City: Shenzhen
+Country: China
+Port: 8081
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 199.64.34.89
+City: Phoenix
+Country: United States
+Port: 443
+Domains: [honeywell.com]
+	No vulnerabilities found.
+
+
+IP: 95.6.75.27
+City: Istanbul
+Country: Turkey
+Port: 8080
+Domains: [ttnet.com.tr]
+	No vulnerabilities found.
+
+
+IP: 106.112.134.30
+City: Shijiazhuang
+Country: China
+Port: 9000
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 3.136.75.38
+City: Columbus
+Country: United States
+Port: 443
+Domains: [amazonaws.com rrd.com]
+	No vulnerabilities found.
+
+
+IP: 199.7.199.249
+City: Lompoc
+Country: United States
+Port: 443
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 20.7.20.15
+City: Boydton
+Country: United States
+Port: 443
+Domains: [colombiacompra.gov.co]
+	No vulnerabilities found.
+
+
+IP: 52.22.21.58
+City: Ashburn
+Country: United States
+Port: 443
+Domains: [telarus.com amazonaws.com]
+	No vulnerabilities found.
+
+
+IP: 103.41.70.47
+City: Cambridge
+Country: United States
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 197.140.18.133
+City: ’Aïn Benian
+Country: Algeria
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 52.34.162.56
+City: Boardman
+Country: United States
+Port: 443
+Domains: [fantasyplayerprotect.com amazonaws.com]
+	No vulnerabilities found.
+
+
+IP: 195.191.179.111
+City: Warsaw
+Country: Poland
+Port: 443
+Domains: [ap-bank.com]
+	No vulnerabilities found.
+
+
+IP: 47.99.42.159
+City: Hangzhou
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 46.102.134.76
+City: Shiraz
+Country: Iran, Islamic Republic of
+Port: 8443
+Domains: [afranet.ir]
+Vulnerabilities:
+	Vulnerability ID: CVE-2020-7656
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2012-6708
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+
+
+IP: 13.115.85.104
+City: Tokyo
+Country: Japan
+Port: 80
+Domains: [amazonaws.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+
+
+IP: 83.247.150.58
+City: L'Hospitalet de Llobregat
+Country: Spain
+Port: 443
+Domains: [gencat.cat]
+	No vulnerabilities found.
+
+
+IP: 121.173.7.14
+City: Bucheon-si
+Country: Korea, Republic of
+Port: 443
+Domains: [parkingweb.kr]
+	No vulnerabilities found.
+
+
+IP: 79.143.177.20
+City: Munich
+Country: Germany
+Port: 8080
+Domains: [contaboserver.net]
+	No vulnerabilities found.
+
+
+IP: 200.58.107.30
+City: Rosario
+Country: Argentina
+Port: 443
+Domains: [dattaweb.com]
+	No vulnerabilities found.
+
+
+IP: 149.5.45.57
+City: Dublin
+Country: Ireland
+Port: 443
+Domains: [manageengine.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-7656
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2012-6708
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 54.213.247.186
+City: Boardman
+Country: United States
+Port: 443
+Domains: [amazonaws.com autotoll.com.hk]
+	No vulnerabilities found.
+
+
+IP: 122.9.50.144
+City: Guangzhou
+Country: China
+Port: 8081
+Domains: [hwclouds-dns.com]
+	No vulnerabilities found.
+
+
+IP: 13.79.155.177
+City: Dublin
+Country: Ireland
+Port: 443
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 120.26.229.35
+City: Hangzhou
+Country: China
+Port: 8080
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 157.7.133.155
+City: Tokyo
+Country: Japan
+Port: 81
+Domains: [myvps.jp]
+	No vulnerabilities found.
+
+
+IP: 202.164.156.105
+City: Changanācheri
+Country: India
+Port: 9090
+Domains: [asianet.co.in]
+	No vulnerabilities found.
+
+
+IP: 62.140.8.84
+City: Frankfurt am Main
+Country: Germany
+Port: 443
+Domains: [fact-finder.cloud]
+	No vulnerabilities found.
+
+
+IP: 218.22.73.81
+City: Shanghai
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 212.129.2.168
+City: Paris
+Country: France
+Port: 443
+Domains: [genwyse.com poneytelecom.eu]
+Vulnerabilities:
+	Vulnerability ID: CVE-2024-0727
+	CVSS Score: 5.5
+	Verified: false
+	Vulnerability ID: CVE-2022-2097
+	CVSS Score: 5.3
+	Verified: false
+	Vulnerability ID: CVE-2021-3711
+	CVSS Score: 9.8
+	Verified: false
+	Vulnerability ID: CVE-2023-0466
+	CVSS Score: 5.3
+	Verified: false
+	Vulnerability ID: CVE-2023-2650
+	CVSS Score: 6.5
+	Verified: false
+	Vulnerability ID: CVE-2009-1390
+	CVSS Score: 6.8
+	Verified: false
+	Vulnerability ID: CVE-2022-1292
+	CVSS Score: 9.8
+	Verified: false
+	Vulnerability ID: CVE-2022-2068
+	CVSS Score: 9.8
+	Verified: false
+	Vulnerability ID: CVE-2009-3766
+	CVSS Score: 6.8
+	Verified: false
+	Vulnerability ID: CVE-2021-3712
+	CVSS Score: 7.4
+	Verified: false
+
+
+IP: 116.205.128.131
+City: Guangzhou
+Country: China
+Port: 80
+Domains: [hwclouds-dns.com]
+	No vulnerabilities found.
+
+
+IP: 34.217.238.119
+City: Boardman
+Country: United States
+Port: 443
+Domains: [ethizo.com amazonaws.com]
+	No vulnerabilities found.
+
+
+IP: 44.240.82.239
+City: Boardman
+Country: United States
+Port: 80
+Domains: [amazonaws.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2018-14040
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2018-14041
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2016-10735
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2018-14042
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 193.227.178.250
+City: Beirut
+Country: Lebanon
+Port: 3055
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 111.207.153.137
+City: Beijing
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 166.73.16.246
+City: Brookfield
+Country: United States
+Port: 443
+Domains: [fiserv.com]
+	No vulnerabilities found.
+
+
+IP: 103.8.24.17
+City: Petaling Jaya
+Country: Malaysia
+Port: 8443
+Domains: [internet-webhosting.com]
+	No vulnerabilities found.
+
+
+IP: 211.149.137.32
+City: Chengdu
+Country: China
+Port: 8082
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 130.211.150.54
+City: Council Bluffs
+Country: United States
+Port: 443
+Domains: [googleusercontent.com]
+	No vulnerabilities found.
+
+
+IP: 212.11.168.70
+City: Mecca
+Country: Saudi Arabia
+Port: 8181
+Domains: [moh.gov.sa sps.net.sa]
+	No vulnerabilities found.
+
+
+IP: 95.243.107.139
+City: Sant'Angelo in Vado
+Country: Italy
+Port: 8080
+Domains: [telecomitalia.it]
+	No vulnerabilities found.
+
+
+IP: 38.49.138.57
+City: Santiago de Querétaro
+Country: Mexico
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 209.217.100.223
+City: Ottawa
+Country: Canada
+Port: 443
+Domains: [i-sight.com]
+	No vulnerabilities found.
+
+
+IP: 212.247.198.73
+City: Stockholm
+Country: Sweden
+Port: 443
+Domains: [tele2.se prosang.com]
+Vulnerabilities:
+	Vulnerability ID: CVE-2015-9251
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2019-11358
+	CVSS Score: 6.1
+	Verified: false
+	Vulnerability ID: CVE-2020-11022
+	CVSS Score: 6.9
+	Verified: false
+	Vulnerability ID: CVE-2020-11023
+	CVSS Score: 6.9
+	Verified: false
+
+
+IP: 158.101.125.130
+City: Ashburn
+Country: United States
+Port: 443
+Domains: [lineagelogistics.com]
+	No vulnerabilities found.
+
+
+IP: 159.75.71.135
+City: Guangzhou
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 221.231.104.122
+City: Shanghai
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 8.142.187.132
+City: Zhangjiakou
+Country: China
+Port: 80
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 213.144.226.209
+City: The Hague
+Country: Netherlands
+Port: 8443
+Domains: [visserbreda.nl visserenvisser.nl]
+	No vulnerabilities found.
+
+
+IP: 47.113.221.46
+City: Heyuan
+Country: China
+Port: 8181
+Domains: []
+	No vulnerabilities found.
+
+
+IP: 196.206.163.82
+City: Casablanca
+Country: Morocco
+Port: 60030
+Domains: [iam.net.ma]
+	No vulnerabilities found.
+
+
+IP: 57.128.65.111
+City: Calais
+Country: France
+Port: 443
+Domains: [etak-mps.com]
+	No vulnerabilities found.
+
+
+IP: 142.4.70.216
+City: Woodbridge
+Country: United States
+Port: 443
+Domains: [mdsol.com]
+	No vulnerabilities found.

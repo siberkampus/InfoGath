@@ -1,0 +1,8 @@
+root
+admin
+msfconsole
+root123
+root12345
+msfadmin
+muhammed
+kali

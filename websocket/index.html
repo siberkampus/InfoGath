@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked BY Siber Kampüs</title>
+    <style>
+        #messages {
+            border: 1px solid #ccc;
+            width: 500px;
+            height: 400px;
+            overflow-y: scroll;
+        }
+        #message-form {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hacked BY Siber Kampüs</h1>
+    <div id="messages"></div>
+    <form id="message-form">
+        <input type="text" id="username" placeholder="Your name" required>
+        <input type="text" id="message" placeholder="Your message" required>
+        <button type="submit">Send</button>
+    </form>
+
+    <script>
+        const ws = new WebSocket("ws://192.168.1.41:8080/ws");
+
+        const messageForm = document.getElementById("message-form");
+        const messagesDiv = document.getElementById("messages");
+
+        ws.onmessage = function(event) {
+            const msg = JSON.parse(event.data);
+            const messageElement = document.createElement("div");
+            messageElement.textContent = `${msg.username}: ${msg.content}`;
+            messagesDiv.appendChild(messageElement);
+        };
+
+        messageForm.addEventListener("submit", function(event) {
+            event.preventDefault();
+            const username = document.getElementById("username").value;
+            const message = document.getElementById("message").value;
+
+            const msg = {
+                username: username,
+                content: message
+            };
+
+            ws.send(JSON.stringify(msg));
+            document.getElementById("message").value = ""; 
+        });
+    </script>
+</body>
+</html>
+
+

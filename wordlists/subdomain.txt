@@ -1,0 +1,11 @@
+www
+help
+store
+app
+blog
+ftp
+minictf
+mail
+ayakustuctf
+basvuru
+oys
