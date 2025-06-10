@@ -14,6 +14,8 @@ func options() {
 	fmt.Println("8-)DNS Records")
 	fmt.Println("9-)AD Password Spraying")
 	fmt.Println("10-)Ransomware Attack")
+	fmt.Println("11-)XSS FUZZER")
+	fmt.Println("12-)SQLi FUZZER")
 	fmt.Print("Select your Option : ")
 	fmt.Scan(&option)
 	switch option {
@@ -37,5 +39,9 @@ func options() {
 		passwordspray()
 	case 10:
 		ransomware()
+	case 11:
+		xss()
+	case 12:
+		sqli()
 	}
 }
